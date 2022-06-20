@@ -1,6 +1,8 @@
-**Ever doesn't mean forever.**
+**Ever doesn't mean forever.** 
 
 Hope to realize what I really want 
+
+> updated in 20220620
 
 - 👨‍💻 ready to work in bytedance (202207-~)
 - 👨‍🎓 college life is over (201809-202206)
