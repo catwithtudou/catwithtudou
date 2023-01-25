@@ -2,11 +2,10 @@
 
 Hope to realize what I really want 
 
-> updated in 20220620
+> updated in 20230126
 
-- 👨‍💻 ready to work in bytedance (202207-~)
-- 👨‍🎓 college life is over (201809-202206)
-- ⛅ mentality needs to be adjusted recently 
+- 👨‍💻 work in bytedance (202207-~) 
+- 📖 try to restore my learning status in the busy working status
 - 🌱 always learn the everything about the golang world and server field
 - ⚡ always the self-reflection
 
