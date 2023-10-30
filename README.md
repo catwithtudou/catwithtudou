@@ -10,7 +10,7 @@ Hope to realize what I really want
 - ⚡ Always the **self-reflection**
 
 
-<div >
+<div align="center" style="display: flex; justify-content: center;">
     <img src="https://streak-stats.demolab.com?user=catwithtudou&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=catwithtudou&show_icons=true&theme=radical&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catwithtudou&locale=en&hide_title=false&card_width=400&langs_count=5&theme=radical&hide_border=false&hide=Jupyter%20Notebook" height="150" alt="languages graph"  />
