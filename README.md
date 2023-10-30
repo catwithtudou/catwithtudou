@@ -1,13 +1,18 @@
-**Ever doesn't mean forever.**
+> updated in 20231030
+
+<div align="center">
+
+## Ever doesn't mean forever
 
 Hope to realize what I really want
 
-> updated in 20231030
 
 - 👨‍💻 As **a server engineer** in Bytedance (202207-~)
 - 🫣 The most important thing at present is to **maintain a stable mentality and return to the original intention**
 - 🤕 Recently, the thing I have been learning is **Rust And LangChain**
 - ⚡ Always the **self-reflection**
+
+</div>
 
 
 <div align="center">
