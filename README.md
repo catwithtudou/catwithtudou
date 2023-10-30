@@ -1,15 +1,19 @@
-**Ever doesn't mean forever.** 
+**Ever doesn't mean forever.**
 
-Hope to realize what I really want 
+Hope to realize what I really want
 
-> updated in 20230126
+> updated in 20231030
 
-- 👨‍💻 work in bytedance (202207-~) 
-- 📖 try to restore my learning status in the busy working status
-- 🌱 always learn the everything about the golang world and server field
-- ⚡ always the self-reflection
+- 👨‍💻 As **a server engineer** in Bytedance (202207-~)
+- 🫣 The most important thing at present is to **maintain a stable mentality and return to the original intention**
+  - The lesson work has taught me
+- 🤕 Recently, the thing I have been learning is **Rust And LangChain**
+- ⚡ Always the **self-reflection**
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=catwithtudou&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catwithtudou&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://streak-stats.demolab.com?user=catwithtudou&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=catwithtudou&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catwithtudou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&hide=Jupyter%20Notebook" height="150" alt="languages graph"  />
+</div>
