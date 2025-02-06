@@ -2,11 +2,11 @@
 
 Hope to realize what I really want
 
-> updated in 20231030
+> updated in 20250206
 
 - 👨‍💻 As **a server engineer** in Bytedance (202207-~)
-- 🫣 The most important thing at present is to **maintain a stable mentality and return to the original intention**
-- 🤕 Recently, the thing I have been learning is **Rust And LangChain**
+- 🫣 The most important thing at present is to **to do difficult and complex things and record the process of life**
+- 🤕 Recently, I have been learning about **Large Language Models (LLM) and independent development projects**. In my personal life, I'm also studying **financial investment and photography**.
 - ⚡ Always the **self-reflection**
 
 
