@@ -11,8 +11,8 @@ Hope to realize what I really want
 
 
 <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=catwithtudou&show_icons=true&theme=radical&count_private=true" height="150" style="margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catwithtudou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&hide=Jupyter%20Notebook,HTML" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=catwithtudou&show_icons=true&count_private=true" height="150" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catwithtudou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&hide=Jupyter%20Notebook,HTML" height="150" alt="languages graph" />
 
 </div>
 
