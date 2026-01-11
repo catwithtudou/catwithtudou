@@ -1,10 +1,6 @@
 ## Ever doesn't mean forever
 
-Hope to realize what I really want
-
 > updated in 20260110
-
-- ⚡ Practicing continuous self-reflection
 
 - 👨‍💻 **Server Engineer**@Bytedance(202207–present)
 
