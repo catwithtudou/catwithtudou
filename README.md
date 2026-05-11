@@ -40,6 +40,8 @@
   _Clipboard text formatting for mixed Chinese / English writing._
 - [catwithtudou.github.io](https://github.com/catwithtudou/catwithtudou.github.io) — 个人博客源码和写作入口。  
   _Personal blog source and writing archive._
+- [christmas-tree](https://github.com/catwithtudou/christmas-tree) — 手势控制的 3D 粒子圣诞树，偏浏览器互动实验。  
+  _A hand-tracking 3D particle scene in the browser._
 
 <div>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=catwithtudou&show_icons=true&count_private=true" height="150" style="margin-right: 10px;" />
