@@ -28,20 +28,6 @@
 - **Learning:** 持续把算法、系统设计、AI Agent 和个人效率工具串起来，不追短期热闹。  
   _Long-term practice across algorithms, systems, AI agents, and productivity tools._
 
-## Selected projects
-
-- [load-balancer-algorithm](https://github.com/catwithtudou/load-balancer-algorithm) — Go 实现随机、轮询、最小连接和 Maglev 一致性哈希等负载均衡算法。  
-  _Go implementations of common load balancing algorithms._
-- [algorithm_train](https://github.com/catwithtudou/algorithm_train) — Rust / Go 算法训练和 LeetCode 日常题解索引。  
-  _Long-running Rust and Go algorithm practice._
-- [CalMD](https://github.com/catwithtudou/CalMD) — 把 macOS Calendar 日程导出成 Markdown 并复制到剪贴板。  
-  _Export macOS Calendar events to Markdown._
-- [CopyTxMate](https://github.com/catwithtudou/CopyTxMate) — macOS 中英文混排和 PDF 复制文本格式化工具。  
-  _Clipboard text formatting for mixed Chinese / English writing._
-- [catwithtudou.github.io](https://github.com/catwithtudou/catwithtudou.github.io) — 个人博客源码和写作入口。  
-  _Personal blog source and writing archive._
-- [christmas-tree](https://github.com/catwithtudou/christmas-tree) — 手势控制的 3D 粒子圣诞树，偏浏览器互动实验。  
-  _A hand-tracking 3D particle scene in the browser._
 
 <div>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=catwithtudou&show_icons=true&count_private=true" height="150" style="margin-right: 10px;" />
