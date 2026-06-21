@@ -19,14 +19,6 @@
 
 > Trying to stay honest about what I know, and curious about what I don’t.
 
-## Recently building / writing / learning
-
-- **Building:** 用 Go / Rust 复盘服务端基础能力，也做一些能立刻改善日常工作流的小工具。  
-  _Small, practical systems around backend fundamentals and personal workflow automation._
-- **Writing:** 在 [zhengyua.cn](https://zhengyua.cn/) 记录工程实践、AI workflow、读书和阶段性复盘。  
-  _Notes on engineering, AI-assisted workflows, reading, and reflection._
-- **Learning:** 持续把算法、系统设计、AI Agent 和个人效率工具串起来，不追短期热闹。  
-  _Long-term practice across algorithms, systems, AI agents, and productivity tools._
 
 
 <div>
